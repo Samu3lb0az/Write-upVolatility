@@ -214,7 +214,7 @@ vol -f /Scenarios/Investigations/Investigation-2.raw windows.dlllist | grep 740
 ```
 
 
-*Recomendo revisar o tópico “Orientações” para evitar conflitos ou mal-entendidos.*
+*Recomendo revisar o tópico [Orientações](#2-orientações) para evitar conflitos ou mal-entendidos.*
 
 ---
 
