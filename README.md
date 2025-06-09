@@ -8,7 +8,7 @@
 
 ## **1. Introdução**
 
-**Objetivo**: Este writeup foi desenvolvido para auxiliar na **compreensão das tarefas** do lab (**Nome do Lab**), oferecendo um guia prático de execução diretamente na máquina virtual do TryHackMe. O ambiente já inclui todos os requisitos pré-instalados (Python 3, ferramentas do **Volatility** e arquivos necessários), permitindo que você se concentre na análise forense sem preocupações com configurações.
+**Objetivo**: Este writeup foi desenvolvido para auxiliar na **compreensão das tarefas** do lab **Volatility**, oferecendo um guia prático de execução diretamente na máquina virtual do TryHackMe. O ambiente já inclui todos os requisitos pré-instalados (Python 3, ferramentas do **Volatility** e arquivos necessários), permitindo que você se concentre na análise forense sem preocupações com configurações.
 
 **Ferramenta**: Volatility 3.
 
