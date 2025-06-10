@@ -175,7 +175,7 @@ vol -f /Scenarios/Investigations/Investigation-2.raw windows.handles | grep 1940
 
 Sendo o plugin utilizado o ‘handles’, e o ‘grep’. Após toda a informação trazida após o plugin ser executado, é possível achar dois elementos, sendo um deles a resposta:
 
-![image.png](attachment:36f3a7d7-e564-4db2-8b19-fa0b3d0790de\:image.png)
+![image.png](/Imagens/Imagem exemplificar.png)
 
 ---
 
