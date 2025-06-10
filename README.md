@@ -181,7 +181,7 @@ Para descobrir o mutex utilizado pelo malware, usamos o plugin `windows.handles`
 vol -f /Scenarios/Investigations/Investigation-2.raw windows.handles | grep 1940
 ```
 
-Sendo o plugin utilizado o *‘handles’*, e o *‘grep’*. Após toda a informação trazida após o plugin ser executado, é possível achar dois elementos, sendo um deles a resposta:
+Sendo o plugin utilizado o `handles`, e o `grep`. Após toda a informação trazida após o plugin ser executado, é possível achar dois elementos, sendo um deles a resposta:
 
 ![Imagem para simplificar](Imagens/Imagem_exemplificar.png)
 
