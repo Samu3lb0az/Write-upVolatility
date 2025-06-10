@@ -5,6 +5,7 @@
 3. [Só código](#3-só-código)
 4. [Sobre mim](#4-sobre-mim)
 5. [Versão em Inglês](https://github.com/Samu3lb0az/WriupVolatiliry_English.git)
+6. [licença](LICENSE)
 
 ## **1. Introdução**
 
