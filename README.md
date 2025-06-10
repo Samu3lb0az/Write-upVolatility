@@ -230,10 +230,10 @@ vol -f /Scenarios/Investigations/Investigation-2.raw windows.dlllist | grep 740
 ## 4. Sobre mim
 
 **Samuel**
-**Desenvolvedor Full-Stack | Estudante de Segurança Cibernética
+**Desenvolvedor Full-Stack | Estudante de Segurança Cibernética**
 
--  **Mais**
-Sou desenvolvedor full-stack que está em busca de aprendaer e aprimirar minhas técnicas em segurança cibernética
+-  **Mais**:
+-  Sou desenvolvedor full-stack que está em busca de aprendaer e aprimirar minhas técnicas em segurança cibernética
 
 -  **Prática em Cybersecurity**:  
   Aprimoro habilidades através de labs práticos no **TryHackMe**, como o *LAB: Volatility*, onde analiso *memory dumps* para investigar ataques, extrair artefatos maliciosos (processos ocultos, DLL injection) e reconstruir cenários de comprometimento.
