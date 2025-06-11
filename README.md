@@ -240,5 +240,5 @@ vol -f /Scenarios/Investigations/Investigation-2.raw windows.dlllist | grep 740
 
 -  **Onde me achar**
 
-  1.  inkedin: www.linkedin.com/in/samuel-boaz-gonçalves
+  1.  Linkedin: www.linkedin.com/in/samuel-boaz-gonçalves
   2.  GitHub: https://github.com/Samu3lb0az
